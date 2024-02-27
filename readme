@@ -1,0 +1,15 @@
+li{
+    padding:3px 15px;
+
+}
+
+body{
+    display:flex;
+    flex-direction:column;
+    height:100vh;
+   
+    
+    background-position:center;
+
+
+}
